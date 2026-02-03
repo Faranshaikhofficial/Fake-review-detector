@@ -24,8 +24,8 @@ The **Fake Review Detection System** is a Machine Learning powered web applicati
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/fake-review-detection.git
-   cd fake-review-detection
+   git clone https://github.com/Faranshaikhofficial/Fake-review-detector.git
+   cd Fake-review-detectior
    ```
 
 2. **Install Dependencies**
@@ -46,11 +46,12 @@ The **Fake Review Detection System** is a Machine Learning powered web applicati
 
 ### Home Dashboard
 _Real-time analytics and model performance metrics._
-![Home](screenshots/1_home.png)
+<img width="1819" height="844" alt="image" src="https://github.com/user-attachments/assets/63b4ceb3-18ea-45a8-af31-9aef24a82588" />
+
 
 ### Behavioral Analytics
 _Radar charts comparing the "DNA" of real vs. fake reviews._
-![Analytics](screenshots/2_analytics_top.png)
+<img width="1744" height="723" alt="image" src="https://github.com/user-attachments/assets/312186cc-04cc-455e-b214-b74c23743c64" />
 
 ## 🤝 Contribution
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
